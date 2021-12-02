@@ -1,18 +1,18 @@
-# Security Policy
+# Politicas De Segurança
 
-## Supported Versions
+## Todas As Aplicações
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+As Aplicações Abaixo Estão Totalmente De Ser Copiado A Interface Logo 
+Titulo Dsaine Ou Qualquer outro Elemento que se relacione Com A Aplicação
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version    | Supported          |
+| ---------- | ------------------ |
+| 1.0 Beta   | PalMents Original  |
+| 1.0 Beta   | PalCines Original  |
+| 1.0 Beta   | MapCity AGL        |
+| 0.8 Beta   | PalPalClick        |
 
-## Reporting a Vulnerability
+## Reporte
 
 Use this section to tell people how to report a vulnerability.
 
