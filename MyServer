@@ -1,17 +1,1 @@
-{
-   "Aplicação": {
-      "Informações": {
-         "Servidor": {
-            "Servidor": {
-               "Administrativo": "QKQ1.200311.02",
-               "ServidorContinuar": "Confirmar               ",
-               "ServidorContinuarOnCrate": "Close",
-               "ServidorMensagem": "Estamos Programando A Nova Versão E Por Isso Não Podemos Autorizar A Entrada De Nenhum usuário ",
-               "ServidorOnline": "Online",
-               "ServidorPara": "Todos ",
-               "ServidorTitulo": "Apenas Pra Testadores"
-            }
-         }
-      }
-   }
-}
+{"ContinuarOnCrateLink":"https://Google.com","ServidorOnline":"true","Color":"#ffffffff","Title":"Falha Ao Conectar","Cancelar":"Sair","Continuar":"Confirmar","Mensagem":"A conexão do Servidor Esta Precária E Não Pode Ser Concluída","ContinuarOnCrate":"Close"}
