@@ -2,7 +2,7 @@
 
 ## Todas As Aplicações
 
-As Aplicações Abaixo Estão Totalmente De Ser Copiado A Interface Logo 
+As Aplicações Abaixo Estão Totalmente Proibido De Ser Copiado A Interface Logo 
 Titulo Dsaine Ou Qualquer outro Elemento que se relacione Com A Aplicação
 
 | Version    | Supported          |
@@ -14,8 +14,18 @@ Titulo Dsaine Ou Qualquer outro Elemento que se relacione Com A Aplicação
 
 ## Reporte
 
-Use this section to tell people how to report a vulnerability.
+Caso Você Veja Algum Caso De Copia Tanto No Dsaine Como Em Outras Ferramenta Reporte!
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Todo Report Que For Visto Como Verdadeiro Tera Sua Recompensa na Aplicação Em Valor De Coin
+Assim Todos Sairemos De Bem Com a Vida,Aleais Caso Tente Copiar E Seja Reportado Ira Ganhar Ban De 8 Horas
+Há 2 Anos Dependendo da Situação!.
+
+## Regras Das Aplicações
+
+-Sem Chingamentos No Chat
+-Sem Brigas
+-Sem Pornografia
+-Sem Spam
+-Sem Rackers
+
+# Obrigado ;)
