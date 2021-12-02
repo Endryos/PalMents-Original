@@ -3,14 +3,15 @@
       "Informações": {
          "Plataforma": {
             "Servidor": {
-               "Administrativo": "QKQ1.200311.02",
+               "Administrativo": "Null",
                "Color": "#ffffffff",
-               "ServidorContinuar": "Confirmar               ",
+               "ServidorContinuar": "Confirmar",
                "ServidorContinuarOnCrate": "Close",
-               "ServidorMensagem": "Estamos Programando A Nova Versão E Por Isso Não Podemos Autorizar A Entrada De Nenhum usuário ",
-               "ServidorOnline": true,
-               "ServidorPara": "Todos ",
-               "ServidorTitulo": "Apenas Pra Testadores"
+               "ServidorMensagem": "Verção Adiada Para 2/12/2021 Pois A FireBase Está Sendo Atualizada",
+               "ServidorOnline": false,
+               "ServidorPara": "All",
+               "ServidorTitle": "Verção Adiada",
+               "ServidorContinuarOnCreateLink": "https://Google.com"
             }
          }
       }
