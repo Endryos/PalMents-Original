@@ -1,12 +1,17 @@
 {
-               "Administrativo": "Nulo",
-               "Color": "#ffffffff",
-               "Continuar": "Confirmar",
-               "ContinuarOnCrate": "Fechar",
-               "Mensagem": "Verção Adiada Para 12/02/2021 Pois A FireBase Sendo Está Atualizada",
-               "ServidorOnline": falso,
-               "Para": "Todos",
-               "Título": "Verção Adiada",
-               "ContinuarOnCreateLink": "https://Google.com",
-               "Cancelar": "Sair"
+   "Aplicação": {
+      "Informações": {
+         "Servidor": {
+            "Servidor": {
+               "Administrativo": "QKQ1.200311.02",
+               "ServidorContinuar": "Confirmar               ",
+               "ServidorContinuarOnCrate": "Close",
+               "ServidorMensagem": "Estamos Programando A Nova Versão E Por Isso Não Podemos Autorizar A Entrada De Nenhum usuário ",
+               "ServidorOnline": "Online",
+               "ServidorPara": "Todos ",
+               "ServidorTitulo": "Apenas Pra Testadores"
             }
+         }
+      }
+   }
+}
