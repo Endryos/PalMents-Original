@@ -1,0 +1,30 @@
+{
+  "Aplicação" : {
+    "Informações" : {
+      "Servidor" : {
+        "Servidor" : {
+          "Administrativo" : "QKQ1.200311.02",
+          "ServidorContinuar" : "Confirmar               ",
+          "ServidorContinuarOnCrate" : "Close",
+          "ServidorMensagem" : "Estamos Programando A Nova Versão E Por Isso Não Podemos Autorizar A Entrada De Nenhum usuário ",
+          "ServidorOnline" : "Online",
+          "ServidorPara" : "Todos ",
+          "ServidorTitulo" : "Apenas Pra Testadores"
+        }
+      },
+      "Usuários" : {
+        "Contador" : {
+          "Todos" : {
+            "Online" : "0"
+          }
+        },
+        "Promoção" : {
+          "Vagas" : "1"
+        },
+        "Servidor" : {
+          "ServidorVagas" : 0
+        }
+      }
+    }
+  }
+}
