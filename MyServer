@@ -1,1 +1,10 @@
-{"ContinuarOnCreateLink":"https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow","ServidorOnline":"true","Color":"A7FF83","Title":"Entre Em Nosso Cajnal","Cancelar":"Sair","Continuar":"Inscrever-Se","Mensagem":"Venha Fazer Parte Da PalMents Fazendo Dicas Relatando Bugs Ou Até Mesmo Entrando Para A Equipe XStorms Gratuitamente","ContinuarOnCreate":"Link"}
+{
+   "Cancelar": "Sair",
+   "Color": "A7FF83",
+   "Continuar": "Inscrever-Se",
+   "ContinuarOnCreate": "Link",
+   "ContinuarOnCreateLink": "https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow",
+   "Mensagem": "Venha Fazer Parte Da PalMents Fazendo Dicas Relatando Bugs Ou Até Mesmo Entrando Para A Equipe XStorms Gratuitamente",
+   "ServidorOnline": "true",
+   "Title": "Entre Em Nosso Cajnal"
+}
