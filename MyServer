@@ -1,8 +1,4 @@
 {
-   "Aplicação": {
-      "Informações": {
-         "Plataforma": {
-            "Servidor": {
                "Administrativo": "Null",
                "Color": "#ffffffff",
                "Continuar": "Confirmar",
@@ -13,7 +9,3 @@
                "Title": "Verção Adiada",
                "ContinuarOnCreateLink": "https://Google.com"
             }
-         }
-      }
-   }
-}
