@@ -5,13 +5,13 @@
             "Servidor": {
                "Administrativo": "Null",
                "Color": "#ffffffff",
-               "ServidorContinuar": "Confirmar",
-               "ServidorContinuarOnCrate": "Close",
-               "ServidorMensagem": "Verção Adiada Para 2/12/2021 Pois A FireBase Está Sendo Atualizada",
-               "ServidorOnline": false,
-               "ServidorPara": "All",
-               "ServidorTitle": "Verção Adiada",
-               "ServidorContinuarOnCreateLink": "https://Google.com"
+               "Continuar": "Confirmar",
+               "ContinuarOnCrate": "Close",
+               "Mensagem": "Verção Adiada Para 2/12/2021 Pois A FireBase Está Sendo Atualizada",
+               "Online": false,
+               "Para": "All",
+               "Title": "Verção Adiada",
+               "ContinuarOnCreateLink": "https://Google.com"
             }
          }
       }
