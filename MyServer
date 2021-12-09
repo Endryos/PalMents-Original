@@ -2,9 +2,9 @@
    "Cancelar": "Sair",
    "Color": "A7FF83",
    "Continuar": "Confirmar",
-   "ContinuarOnCreate": "Fechar",
-   "ContinuarOnCreateLink": "https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow",
+   "ContinuarOnClick": "Fechar",
+   "ContinuarOnClickLink": "https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow",
    "Mensagem": "No Momento A MapCity Está No horário De Descanso Amanhã Voltara Ao Normal",
-   "ServidorOnline": "false",
-   "Title": "Fora Da Area"
+   "Servidor": "Desativado",
+   "Titulo": "Fora Da Area"
 }
