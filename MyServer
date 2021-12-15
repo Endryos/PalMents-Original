@@ -1,13 +1,12 @@
 {
-   "Cancelar": "Sair",
-   "Color": "43DDE6",
-   "Continuar": "Entrar No Canal",
-   "ContinuarOnClick": "Link",
-   "ContinuarOnClickLink": "https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow",
-   "Mensagem": "Estamos terminando as ultimas configurações do nosso sistema, Voltaremos De Manha Bem Cedo,Enquanto Espera Va Ate Nosso Canal E Fique Atento a atualização ou promoção exclusiva!",
+   "Server/Cancelar": "Sair",
+   "Server/Color": "43DDE6",
+   "Server/Continuar": "Entrar No Canal",
+   "Server/ContinuarOnClick": "https://youtube.com/channel/UCE4010OBOFvLPvdLTnzAHow",
+   "Server/Mensagem": "Estamos terminando as ultimas configurações do nosso sistema, Voltaremos De Manha Bem Cedo,Enquanto Espera Va Ate Nosso Canal E Fique Atento a atualização ou promoção exclusiva!",
    "Servidor": "Todos",
-   "Titulo": "Em Manutenção",
-   "Aplicação": "PalMents Original Beta",
-   "Disponível": "Ninguém",
-   "Version": "2.0"
+   "Servidor/Aplicativo": "PalMents Original Beta",
+   "Servidor/Disponível": "Ninguém",
+   "Servidor/Titulo": "Em Manutenção",
+   "Servidor/Versão": "2.0"
 }
